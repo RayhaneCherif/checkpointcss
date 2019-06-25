@@ -1,0 +1,31 @@
+body{
+    background-color:peachpuff;
+  }
+  
+  h1 {
+    color: black;
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 15px;
+  }
+
+  ul li a:link{
+    color: rgb(209, 128, 101);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+  }
+
+  ul li a:visited{
+    color:peru;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+  }
+
+  ul li a:hover{
+    color:darkgrey;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+  }
